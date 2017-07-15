@@ -2,4 +2,4 @@ this is just a text
 a new line
 world of git
 
-now we're getting to the conflict part
+here is the thing we'll do. we'll leave it this way.
