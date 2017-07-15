@@ -2,7 +2,4 @@ this is just a text
 a new line
 world of git
 
-the conflict change
-this is strange, ha?
-
-I'm not sure what to do with you, guys.
+what is it man?
